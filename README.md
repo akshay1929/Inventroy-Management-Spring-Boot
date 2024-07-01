@@ -1,4 +1,4 @@
-Shopify Backend Developer Intern Challenge - Summer 2022
+Inventory Manager Spring Boot
 
 MySQL Installation: 
 Install Xampp to run MySQL server
